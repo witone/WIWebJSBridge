@@ -1,0 +1,16 @@
+PODS:
+  - WIWebJSBridge (1.0.0)
+
+DEPENDENCIES:
+  - WIWebJSBridge (from `../`)
+
+EXTERNAL SOURCES:
+  WIWebJSBridge:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WIWebJSBridge: 3cc2a7697e32ac7604b060aa5525fe8880761c6d
+
+PODFILE CHECKSUM: 53d7b078ec42483c97b7f238ebd1288aac5b5286
+
+COCOAPODS: 1.15.2
